@@ -1,4 +1,6 @@
-﻿Imports DevExpress.Web
+﻿Option Infer On
+
+Imports DevExpress.Web
 Imports DevExpress.Web.ASPxRichEdit
 Imports DevExpress.Web.ASPxSpreadsheet
 Imports System

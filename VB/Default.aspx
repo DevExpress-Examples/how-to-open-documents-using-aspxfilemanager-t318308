@@ -11,13 +11,13 @@
 <head runat="server">
     <script type="text/javascript">
         function OnSelectedFileChanged(s, e) {
-            if (e.file != null) {
-                PopupWithDocument.Show();
+        	if (e.file != null) {
+        		PopupWithDocument.Show();
                 PopupWithDocument.PerformCallback(e.file.GetFullName());
             }
         }
         function OnEndCallback(s, e) {
-            s.Show();
+        	s.Show();
         }
     </script>
     <title></title>
