@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [DocumentFormatHelper.cs](./CS/App_Code/DocumentFormatHelper.cs) (VB: [DocumentFormatHelper.vb](./VB/App_Code/DocumentFormatHelper.vb))
+* [Default.aspx](./CS/Default.aspx) (VB: [Default.aspx](./VB/Default.aspx))
+* [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx](./VB/Default.aspx))
+<!-- default file list end -->
 # How to open documents using ASPxFileManager 
 
 
